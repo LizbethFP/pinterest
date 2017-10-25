@@ -7,12 +7,12 @@ body { /*ordenar alfabéticamente*/
 }
 
 /*clases específicas*/
-
+/*Encabezado*/
 header {
   position: relative;
 }
 
-
+/*Listas del encabezado*/
 ul .row {
   position: absolute;
   margin-top: 0;
@@ -68,7 +68,7 @@ ul div p {
   margin: 10px;
 }
 
-
+/*Sección con imágenes*/
 section {
   position: absolute;
   top: 200px;
